@@ -1,0 +1,7 @@
+C:\Users\adity\Desktop\HUMBER\Numeric Computing - GAME-104\Assignment2\Assignment2\obj\Debug\Assignment2.csprojResolveAssemblyReference.cache
+C:\Users\adity\Desktop\HUMBER\Numeric Computing - GAME-104\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\adity\Desktop\HUMBER\Numeric Computing - GAME-104\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+C:\Users\adity\Desktop\HUMBER\Numeric Computing - GAME-104\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+C:\Users\adity\Desktop\HUMBER\Numeric Computing - GAME-104\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+C:\Users\adity\Desktop\HUMBER\Numeric Computing - GAME-104\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+C:\Users\adity\Desktop\HUMBER\Numeric Computing - GAME-104\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
